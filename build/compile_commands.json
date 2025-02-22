@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Code_project/ProjectDemo/build",
+  "command": "C:\\mingw64\\bin\\gcc.exe  @CMakeFiles/my_hello.dir/includes_C.rsp -g -o CMakeFiles\\my_hello.dir\\src\\hello.c.obj -c D:\\Code_project\\ProjectDemo\\src\\hello.c",
+  "file": "D:/Code_project/ProjectDemo/src/hello.c",
+  "output": "CMakeFiles/my_hello.dir/src/hello.c.obj"
+}
+]
